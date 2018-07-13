@@ -1,0 +1,2 @@
+﻿  test_asio.cpp
+LINK : fatal error LNK1104: 无法打开文件“libboost_thread-vc140-mt-sgd-x32-1_66.lib”
